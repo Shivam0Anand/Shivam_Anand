@@ -71,14 +71,13 @@ const Index = () => (
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="My Blog"
+            link="https://darkshadow.netlify.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective
-            contest.
+            This is my blog.
           </ProjectCard>
-          <ProjectCard
+          {/* <ProjectCard
             title="Harry Potter"
             link="https://www.behance.net/gallery/52915793/Harry-Potter"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
@@ -99,7 +98,7 @@ const Index = () => (
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             A fantasy image manipulation relocating the habitat of wild animals.
-          </ProjectCard>
+          </ProjectCard> */}
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
