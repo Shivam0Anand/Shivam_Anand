@@ -77,15 +77,14 @@ const Index = () => (
           >
             This is my blog.
           </ProjectCard>
-          {/* <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+          <ProjectCard
+            title="To-Do List"
+            link="https://shivam0anand.github.io/ToDo/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired
-            image.
+            I am making To-Do list in JavaScript.
           </ProjectCard>
-          <ProjectCard
+          {/* <ProjectCard
             title="Tomb Raider"
             link="https://www.behance.net/gallery/43907099/Tomb-Raider"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
@@ -105,7 +104,11 @@ const Index = () => (
         <Title>About</Title>
         <AboutHero>
           <Avatar src={avatar} alt="Shivam Anand" />
-          <AboutSub>Full Stack developer in Making.</AboutSub>
+          <AboutSub>
+            Hello, I am Shivam Anand. Full Stack web developer in making and I
+            also used to write articles on some topics related to Web
+            Development.
+          </AboutSub>
         </AboutHero>
         <AboutDesc>Full Stack developer in Making.</AboutDesc>
       </About>
