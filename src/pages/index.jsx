@@ -110,15 +110,23 @@ const Index = () => (
             Development.
           </AboutSub>
         </AboutHero>
-        <AboutDesc>Full Stack developer in Making.</AboutDesc>
+        <AboutDesc>
+          I started this website as a place to document everything I learned
+          going through carrer changes. I try to write about everything I learn.
+        </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on
+            Say <a href="mailto:shivamanand252@gmail.com">Hi</a> or find me on
             other platforms:{" "}
             <a href="https://www.instagram.com/shivam_jackson">Instagram</a>
+            <br />
+            <a href="https://github.com/Shivam0Anand">Github</a>
+            <br />
+            <a href="https://twitter.com/shivam_jackson">Twitter</a>
+            <br />
           </ContactText>
         </Inner>
         <Footer />
