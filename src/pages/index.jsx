@@ -89,7 +89,8 @@ const Index = () => (
             link="https://shivam0anand.github.io/quiz/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            A MCQ JavaScript Quiz app with 40+ practice questions made in
+            vanilla JavaScript.
           </ProjectCard>
           {/* <ProjectCard
             title="Eagle"
