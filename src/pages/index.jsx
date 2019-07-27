@@ -84,14 +84,14 @@ const Index = () => (
           >
             I am making To-Do list in JavaScript.
           </ProjectCard>
-          {/* <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+          <ProjectCard
+            title="Javascript Quiz"
+            link="https://shivam0anand.github.io/quiz/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             Recreation of a Tomb Raider Wallpaper (Fan Art)
           </ProjectCard>
-          <ProjectCard
+          {/* <ProjectCard
             title="Eagle"
             link="https://www.behance.net/gallery/38068151/Eagle"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
