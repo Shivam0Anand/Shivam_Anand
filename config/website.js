@@ -6,7 +6,7 @@ module.exports = {
   siteTitle: "Shivam Anand", // Navigation and Site Title
   siteTitleAlt: "Shivam Anand", // Alternative Site title for SEO
   siteTitleShort: "Shivam", // short_name for manifest
-  siteHeadline: "It's me Shivam", // Headline for schema.org JSONLD
+  siteHeadline: ".", // Headline
   siteUrl: "https://www.darkshadow.in/", // Domain of your site. No trailing slash!
   siteLanguage: "en", // Language Tag on <html> element
   siteLogo: "/logo.png", // Used for SEO and manifest
