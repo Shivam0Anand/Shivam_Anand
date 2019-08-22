@@ -92,13 +92,13 @@ const Index = () => (
             A MCQ JavaScript Quiz app with 40+ practice questions made in
             vanilla JavaScript.
           </ProjectCard>
-          <ProjectCard
+          {/* <ProjectCard
             title="shivam"
             link="#"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             A fantasy image manipulation relocating the habitat of wild animals.
-          </ProjectCard>
+          </ProjectCard> */}
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
