@@ -86,7 +86,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Javascript Quiz"
-            link="https://shivam0anand.github.io/quiz/"
+            link="js-quiz.xyz"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             A MCQ JavaScript Quiz app with 40+ practice questions made in
