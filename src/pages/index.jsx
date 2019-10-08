@@ -115,6 +115,10 @@ const Index = () => (
         <AboutDesc>
           I started this website as a place to document everything I learned
           going through carrer changes. I try to write about everything I learn.
+          In the present journey to a full stack Web Developer I have aquired
+          skills in HTML, CSS, JavaScript for the front-end Web Development and
+          NodeJS for the back - end. At present I am learning React-Native for
+          the purpose of developing Apps.
         </AboutDesc>
       </About>
       <Contact offset={4}>
