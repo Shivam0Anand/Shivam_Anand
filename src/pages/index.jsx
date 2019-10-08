@@ -118,7 +118,13 @@ const Index = () => (
           In the present journey to a full stack Web Developer I have aquired
           skills in HTML, CSS, JavaScript for the front-end Web Development and
           NodeJS for the back - end. At present I am learning React-Native for
-          the purpose of developing Apps.
+          the purpose of developing Apps. <br />
+          <br />
+          At present I am working a Task Manager Web App. The project aims at
+          designing a To-Do application which can be used in saving daily tasks,
+          we can view pending task and completed ones separately. I had used
+          HTML, CSS and JavaScript for client side where as NodeJS and MongoDB
+          for server side.
         </AboutDesc>
       </About>
       <Contact offset={4}>
