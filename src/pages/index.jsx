@@ -97,7 +97,8 @@ const Index = () => (
             link="https://anand-weather-app.herokuapp.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-          An app which shows the weather report for the specific location you search for.
+            An app which shows the weather report for the specific location you
+            search for.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -107,8 +108,8 @@ const Index = () => (
           <Avatar src={avatar} alt="Shivam Anand" />
           <AboutSub>
             Hello, I am Shivam Anand. Full Stack web developer in making and I
-            also used to write articles on some topics related to Web
-            Development.
+            also write articles on topics related to Web Development
+            <a href="https://darkshadow.netlify.com/"> here</a>.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
