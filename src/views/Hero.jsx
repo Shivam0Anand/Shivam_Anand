@@ -139,7 +139,13 @@ const Hero = ({ children, offset }) => (
         left="5%"
         top="90%"
       />
-      {/* <SVG icon="box" width={6} fill={colors['grey-darkest']} left="10%" top="10%" /> */}
+      <SVG
+        icon="box"
+        width={6}
+        fill={colors["grey-darkest"]}
+        left="10%"
+        top="10%"
+      />
       <SVG
         icon="box"
         width={12}
