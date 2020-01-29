@@ -86,7 +86,7 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Javascript Quiz"
-            link="js-quiz.xyz"
+            link="https://js-quiz.xyz"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             A MCQ JavaScript Quiz app with 40+ practice questions made in
@@ -95,6 +95,14 @@ const Index = () => (
           <ProjectCard
             title="Weather App"
             link="https://anand-weather-app.herokuapp.com/"
+            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+          >
+            An app which shows the weather report for the specific location you
+            search for.
+          </ProjectCard>
+          <ProjectCard
+            title="Chat App"
+            link="https://shivam-chatapp.herokuapp.com//"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             An app which shows the weather report for the specific location you
