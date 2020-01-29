@@ -78,11 +78,12 @@ const Index = () => (
             This is my blog.
           </ProjectCard>
           <ProjectCard
-            title="To-Do List"
-            link="https://shivam0anand.github.io/ToDo/"
-            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+            title="Chat App"
+            link="https://shivam-chatapp.herokuapp.com//"
+            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            I am making To-Do list in JavaScript.
+            The project aims at designing a simple chat application using web Sockets where we can
+simply make rooms and chat with friends.
           </ProjectCard>
           <ProjectCard
             title="Javascript Quiz"
@@ -100,14 +101,7 @@ const Index = () => (
             An app which shows the weather report for the specific location you
             search for.
           </ProjectCard>
-          <ProjectCard
-            title="Chat App"
-            link="https://shivam-chatapp.herokuapp.com//"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-          >
-            The project aims at designing a simple chat application using web Sockets where we can
-simply make rooms and chat with friends.
-          </ProjectCard>
+          
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
