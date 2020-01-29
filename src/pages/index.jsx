@@ -105,8 +105,8 @@ const Index = () => (
             link="https://shivam-chatapp.herokuapp.com//"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            An app which shows the weather report for the specific location you
-            search for.
+            The project aims at designing a simple chat application using web Sockets where we can
+simply make rooms and chat with friends.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
