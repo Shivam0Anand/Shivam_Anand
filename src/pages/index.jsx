@@ -87,7 +87,7 @@ simply make rooms and chat with friends.
           </ProjectCard>
           <ProjectCard
             title="Javascript Quiz"
-            link="https://js-quiz.xyz"
+            link="https://shivamanand-dev.github.io/quiz/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
             A MCQ JavaScript Quiz app with 40+ practice questions made in
