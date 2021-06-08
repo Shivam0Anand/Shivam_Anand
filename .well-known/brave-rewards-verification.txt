@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: shivamanand.dev
+Token: 9173cff85ea554f270eb63cc6532d49fa83ea5bacb5a6b4f1df74c50e5c04bc4
