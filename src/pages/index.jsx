@@ -67,7 +67,7 @@ const Index = () => (
         </BigTitle>
         <Subtitle>Full Stack Web Developer in Making.</Subtitle>
       </Hero>
-      <Projects offset={1}>
+      {/* <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
@@ -103,30 +103,26 @@ simply make rooms and chat with friends.
           </ProjectCard>
           
         </ProjectsWrapper>
-      </Projects>
+      </Projects> */}
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
           <Avatar src={avatar} alt="Shivam Anand" />
           <AboutSub>
-            Hello, I am Shivam Anand. Full Stack web developer in making and I
-            also write articles on topics related to Web Development
+            Experienced Web Developer adept in all stages of advanced web
+            development especially on MERN Stack.
             <a href="https://darkshadow.netlify.com/"> here</a>.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I started this website as a place to document everything I learned
-          going through carrer changes. I try to write about everything I learn.
-          In the present journey to a full stack Web Developer I have aquired
-          skills in HTML, CSS, JavaScript for the front-end Web Development and
-          NodeJS for the back - end. At present I am learning React-Native for
-          the purpose of developing Apps. <br />
+          Bringing forth expertise in design, installation, testing and
+          maintenance of web systems. <br />
           <br />
-          At present I am working a Task Manager Web App. The project aims at
+          {/* At present I am working a Task Manager Web App. The project aims at
           designing a To-Do application which can be used in saving daily tasks,
           we can view pending task and completed ones separately. I had used
           HTML, CSS and JavaScript for client side where as NodeJS and MongoDB
-          for server side.
+          for server side. */}
         </AboutDesc>
       </About>
       <Contact offset={4}>
@@ -136,8 +132,8 @@ simply make rooms and chat with friends.
             Say <a href="mailto:shivamanand252@gmail.com">Hi</a> or find me on
             other platforms:{" "}
             <a href="https://www.instagram.com/shivamanand.dev">Instagram </a>
-            <a href="https://github.com/Shivam0Anand"> Github </a>
-            <a href="https://twitter.com/shivam__anand">Twitter.</a>
+            <a href="https://github.com/shivamanand-dev"> Github </a>
+            <a href="https://twitter.com/er_shivam_anand">Twitter.</a>
             <br />
           </ContactText>
         </Inner>
