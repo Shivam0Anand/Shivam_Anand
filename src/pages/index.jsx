@@ -73,14 +73,14 @@ const Index = () => (
           <ProjectCard
             title="canvas.space"
             link="https://canvas.space/"
-            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+            bg="#ffffff38"
           >
             Responsible For building Reusable Feature components in NextJS.
           </ProjectCard>
           <ProjectCard
             title="HackerLabs"
             // link="https://shivam-chatapp.herokuapp.com//"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+            bg="#ffffff38"
           >
             Responsible for making Reusable UI Components in ReactJS for various
             Projects.
@@ -88,7 +88,7 @@ const Index = () => (
           <ProjectCard
             title="Altcampus"
             link="https://altcampus.school/"
-            bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
+            bg="#ffffff38"
           >
             Understood and used frameworks in project for stability of
             application.
@@ -96,7 +96,7 @@ const Index = () => (
           <ProjectCard
             title="BLOG"
             link="https://darkshadow.netlify.com/"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
+            bg="#ffffff38"
           >
             This is my blog.
           </ProjectCard>
