@@ -86,7 +86,7 @@ const Index = () => (
             Projects.
           </ProjectCard>
           <ProjectCard
-            title="Javascript Quiz"
+            title="Altcampus"
             link="https://altcampus.school/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
@@ -94,7 +94,7 @@ const Index = () => (
             application.
           </ProjectCard>
           <ProjectCard
-            title="Weather App"
+            title="BLOG"
             link="https://darkshadow.netlify.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
