@@ -65,45 +65,43 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Shivam Anand.
         </BigTitle>
-        <Subtitle>Full Stack Web Developer in Making.</Subtitle>
+        <Subtitle>Full Stack Web Developer.</Subtitle>
       </Hero>
-      {/* <Projects offset={1}>
-        <Title>Projects</Title>
+      <Projects offset={1}>
+        <Title>Experiences</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="My Blog"
-            link="https://darkshadow.netlify.com/"
+            title="canvas.space"
+            link="https://canvas.space/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This is my blog.
+            Responsible For building Reusable Feature components in NextJS.
           </ProjectCard>
           <ProjectCard
-            title="Chat App"
-            link="https://shivam-chatapp.herokuapp.com//"
+            title="HackerLabs"
+            // link="https://shivam-chatapp.herokuapp.com//"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            The project aims at designing a simple chat application using web Sockets where we can
-simply make rooms and chat with friends.
+            Responsible for making Reusable UI Components in ReactJS for various
+            Projects.
           </ProjectCard>
           <ProjectCard
             title="Javascript Quiz"
-            link="https://shivamanand-dev.github.io/quiz/"
+            link="https://altcampus.school/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            A MCQ JavaScript Quiz app with 40+ practice questions made in
-            vanilla JavaScript.
+            Understood and used frameworks in project for stability of
+            application.
           </ProjectCard>
           <ProjectCard
             title="Weather App"
-            link="https://anand-weather-app.herokuapp.com/"
+            link="https://darkshadow.netlify.com/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            An app which shows the weather report for the specific location you
-            search for.
+            This is my blog.
           </ProjectCard>
-          
         </ProjectsWrapper>
-      </Projects> */}
+      </Projects>
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
